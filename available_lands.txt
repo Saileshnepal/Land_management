@@ -1,0 +1,3 @@
+001, Kathmandu, 10 Aana, 50000
+002, Pokhara, 8 Aana, 45000
+003, Chitwan, 12 Aana, 55000
